@@ -1,0 +1,2 @@
+default["myapache"]["greeting"] = "Chefs!"
+
